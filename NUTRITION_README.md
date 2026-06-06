@@ -187,15 +187,4 @@ This project is part of a growing digital health AI portfolio:
 
 ---
 
-## About
 
-**Nada Abdelhalim**  
-Medical Advisor · MSc Digital Health candidate, TH Deggendorf (Campus Pfarrkirchen)  
-BSc Nutrition & Dietetics · BSc Psychology  
-6+ years in medico-scientific communication across pharma and digital health
-
-[LinkedIn](https://www.linkedin.com/in/) · [GitHub](https://github.com/nadaabdelhalim98)
-
----
-
-*This project was developed as part of an MSc Digital Health portfolio. The dataset is fully synthetic and not derived from any real patient data. Clinical references are included for educational framing only.*
