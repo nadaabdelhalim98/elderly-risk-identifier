@@ -1,5 +1,5 @@
 # Elderly Nutritional Risk Classifier
-### A clinical AI portfolio project · MSc Digital Health · Nada Abdelhalim
+
 
 ---
 
